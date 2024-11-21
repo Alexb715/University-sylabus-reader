@@ -1,6 +1,6 @@
 from pypdf import PdfReader
 class getTestDate:
-    days = ['lundi','mardi','mercredi','jeudi','vendredi']
+    days = ['Examen','Quiz','Test']
     indices = []
     line = []
     def find_all(a_str, sub):
