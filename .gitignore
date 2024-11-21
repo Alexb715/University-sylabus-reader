@@ -170,3 +170,5 @@ idea/
 *.out
 *.app
 *.pdf
+credentials.json
+token.json
